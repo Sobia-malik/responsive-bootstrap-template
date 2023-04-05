@@ -1,0 +1,74 @@
+*{padding: 0;
+margin: 0;
+}
+
+.navbar-nav a {
+    font-family: 'Oswald', sans-serif;
+   
+    font-size: 15px;
+    text-transform: uppercase;
+font-weight: bold;
+}
+.navbar-light .navbar-brand {
+    
+    color: #fff !important;
+    font-size:  30px;
+    font-weight: 700;
+    line-height: 1em;
+
+    
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #26AFF0 !important;
+    
+}
+.navbar-light .navbar-nav .nav-link {
+    color:#B5B5B5 !important;
+    cursor: pointer;
+
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color:#fff !important;
+}
+    .carousel-item{
+        height: 100vh;
+        min-height: 300px !important;
+        background: no-repeat center center scroll;
+        background-size: cover;
+
+        
+    }
+    
+ 
+   
+
+    .container1{
+        background-color: #26AFF0;
+        color: white;
+    }
+    h1{
+        color: white;
+        font-size: 20px;
+        padding-top: 40px;
+        padding-bottom:12px ;
+        margin-left: 10%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+        font-weight: 400;
+        line-height: 1.1em;
+    }
+.pictures{
+    background-color: aliceblue;
+    color: black;
+}
+.footer{
+    background-color:#1C1D21;
+    color: #333;
+}
+    h5{
+        color: #fff;
+        font-size: 14px;
+        font-weight: 400;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding: 20px 0px;
+       
+        }
